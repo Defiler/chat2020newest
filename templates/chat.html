@@ -1,0 +1,34 @@
+{% extends "layout.html" %}
+
+{% set active_page = 'chat' %}
+
+{% block saturs %}
+<div class="container bootstrap">
+  <div class="row">
+    <!-- selected chat -->
+    <div class="col-md-12">
+      <div class="chat-message">
+        <ul class="chat" id="chats">
+            <li class="left clearfix">
+                <div class="chat-body clearfix">
+                    <i>26.10. 8:30</i> <b>Admin:</b> Welcome to super chat!
+                </div>
+            </li>                   
+        </ul>
+      </div>           
+		</div>
+  </div>
+  <div class="row">
+    <div class="chat-box">
+      <div class="input-group">
+        <input id="message" class="form-control border no-shadow no-rounded" placeholder="Rakstiet savu ziņu un spiediet Enter vai Sūtīt" type="text">
+        <span class="input-group-btn">
+          <button onClick="getMsg();" class="btn btn-success no-rounded" type="button">Sūtīt</button>
+        </span>
+      </div><!-- /input-group -->	
+    </div> 
+  </div>
+</div>
+
+<script type="text/javascript" src="{{ url_for('static', filename='js/chat.js') }}"></script>
+{% endblock %}
