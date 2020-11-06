@@ -1,4 +1,9 @@
-{"msg": "aiziet", "user": "Skolotajs"}
-{"msg": "qweqweqwe", "user": "Guest"}
-{"msg": "23r23r", "user": "Guest"}
-{"msg": "A robber pulled a gun on Chuck Norris. Chuck asked him if be wanted that gun rammed down his his throat or shoved up his ass? The robber peed his pants and ran.", "user": "Chuck Norris"}
+{"msg": "Welcome!", "user": "Admin"}
+{"msg": "123", "user": "Guest"}
+{"msg": "123", "user": "Guest"}
+{"msg": "awd", "user": "Guest"}
+{"msg": "", "user": "Guest"}
+{"msg": "Guest changed nick to 1231d3wd1", "user": "Admin"}
+{"msg": "Here we go again", "user": "1231d3wd1"}
+{"msg": "1231 d", "user": "Guest"}
+{"msg": "asd", "user": "Guest"}
